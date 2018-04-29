@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['addsymbol',['addSymbol',['../classreg_1_1dfa_1_1builder.html#a5e59ff6bc082c3fb4544ed3c5b5d1d05',1,'reg::dfa::builder::addSymbol(char32_t symbol)'],['../classreg_1_1dfa_1_1builder.html#a70d6da29f90c7c93ae5673c890a9635a',1,'reg::dfa::builder::addSymbol(std::string const &amp;utf8Symbol)'],['../classreg_1_1nfa_1_1builder.html#a55b4368c6c1a77f3f757113059383b8a',1,'reg::nfa::builder::addSymbol(char32_t symbol)'],['../classreg_1_1nfa_1_1builder.html#a67393ad0facc484ee0ec5dfda88e3903',1,'reg::nfa::builder::addSymbol(std::string const &amp;utf8Symbol)']]],
+  ['addtransition',['addTransition',['../structreg_1_1gnfa_1_1pImpl.html#a27943dee43df59b0b254b4d9dc02331e',1,'reg::gnfa::pImpl::addTransition()'],['../classreg_1_1nfa_1_1builder.html#a16bab87a0191fc5fe47e409dbb7c1cf3',1,'reg::nfa::builder::addTransition(std::string const &amp;from, std::string const &amp;to, char32_t symbol)'],['../classreg_1_1nfa_1_1builder.html#ab9a89f6fb6e50606e717188435c318fe',1,'reg::nfa::builder::addTransition(std::string const &amp;from, std::string const &amp;to, std::string const &amp;utf8Symbol)']]]
+];
